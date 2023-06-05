@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3942fa1faba34cc7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introducción Python.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introducción Python.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introducción Python.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -157,12 +170,13 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "52c3f8d725322f83",
+  "active": "8f473c26a1bf0766",
   "lastOpenFiles": [
+    "Introducción Python.md",
+    "Untitled.md",
     "Python/Introducción/Tipos de datos.md",
     "Python/EstrocturaDeDatos/Diccionarios.md",
     "Python/Funciones/Funciones.md",
-    "Introducción Python.md",
     "Python/EstrocturaDeDatos/Tablas.md",
     "Python/EstrocturaDeDatos/Listas.md",
     "hola/hola.md",
